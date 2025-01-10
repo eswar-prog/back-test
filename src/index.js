@@ -20,7 +20,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
   cors({
-    origin: "https://www.coderz.degital",
+    origin: "https://www.adizcodez.com",
     credentials: true,
   })
 );
